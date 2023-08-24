@@ -39,4 +39,4 @@ class AdvertisementAdmin(admin.ModelAdmin):
 
 # Регистрация модели в админке
 admin.site.register(Advertisement, AdvertisementAdmin)
-#Всем привет 
+#Всем привет, кто это читает
